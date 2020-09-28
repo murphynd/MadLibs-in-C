@@ -25,6 +25,10 @@ namespace MadLibs
 
     public void Configure(IApplicationBuilder app)
     {
+
+      app.UseStaticFiles();
+      app.UseStaticFiles();
+      app.UseStaticFiles();
       app.UseStaticFiles();
       app.UseDeveloperExceptionPage();
       app.UseMvc(routes =>
