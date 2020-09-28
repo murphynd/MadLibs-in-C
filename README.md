@@ -1,4 +1,7 @@
-Mad Libs
+## Mad Libs
+
+### Sept 28, 2020
+
 Create a digital Mad Libs game using ASP.NET Core MVC. Users should be presented with a form with fields for various parts of speech (nouns, adjectives, adverbs, exclamations, and so on). After filling out and submitting that form, they should navigate to a page containing a story that has used their provided words in its text.
 
 Begin small, gathering and using only a few key words.
@@ -16,3 +19,7 @@ story controller - add Razor
 Build a form - nouns, adjectives, adverbs, exclamations, and so on
 looks for parts of speech
 directory for story page
+
+### Created by:
+
+Natalie Murphy, Joseph Nilles, Janet Karpenske
