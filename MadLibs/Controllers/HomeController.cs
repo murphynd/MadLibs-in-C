@@ -5,9 +5,14 @@ namespace MadLibs.Controllers
 {
   public class HomeController : Controller
   {
+    [Route("/")]
+    public ActionResult Home() { return View(); }
+
+    [Route("/Form")]
+    public ActionResult Form() { return View(); }
 
     [Route("/Story")]
-    public ActionResult Madlibs(string holiday, string noun1,
+    public ActionResult Story(string holiday, string noun1,
     string place1, string person1, string adj1, string bodypart,
     string verb1, string adj2, string noun2, string food,
     string plNoun, string famPers, string noun3, string food2,
