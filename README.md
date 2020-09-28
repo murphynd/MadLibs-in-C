@@ -11,8 +11,8 @@ Further Exploration: Consider allowing users to select from multiple Mad Libs th
 
 TO-DO:
 
-Form controller
-story controller
-Build a form
+Form controller -
+story controller - add Razor
+Build a form - nouns, adjectives, adverbs, exclamations, and so on
 looks for parts of speech
 directory for story page
