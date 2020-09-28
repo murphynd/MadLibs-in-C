@@ -30,6 +30,7 @@ namespace MadLibs
       app.UseStaticFiles();
       app.UseStaticFiles();
       app.UseStaticFiles();
+      app.UseStaticFiles();
       app.UseDeveloperExceptionPage();
       app.UseMvc(routes =>
       {

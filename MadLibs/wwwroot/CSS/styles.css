@@ -1,8 +1,6 @@
 body {
   background-color: gray;
 }
-h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
+.container {
+  background-color: white;
 }
